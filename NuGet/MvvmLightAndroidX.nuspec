@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
-        <id>MvvmLightAndroidX</id>
+        <id>GP.MvvmLightAndroidX</id>
         <version>5.4.1.1</version>
         <title>MVVM Light Android X</title>
-        <authors>Laurent Bugnion (GalaSoft)</authors>
-        <owners>Laurent Bugnion (GalaSoft)</owners>
+        <authors>Gianluca Paradiso, Laurent Bugnion (GalaSoft)</authors>
+        <owners>Gianluca Paradiso, Laurent Bugnion (GalaSoft)</owners>
         <licenseUrl>https://github.com/lbugnion/mvvmlight/blob/master/LICENSE</licenseUrl>
         <projectUrl>http://www.mvvmlight.net</projectUrl>
         <iconUrl>http://mvvmlight.net/resources/logo/icon_100x100_transparent.png</iconUrl>
