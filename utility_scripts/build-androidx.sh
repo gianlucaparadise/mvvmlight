@@ -1,3 +1,7 @@
+#!/bin/bash
+
+# This script creates the nupkg artifact
+
 # How to build package:
 
 # - Run `cd GalaSoft.MvvmLight`
